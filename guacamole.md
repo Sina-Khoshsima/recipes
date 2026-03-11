@@ -2,5 +2,8 @@
 ## Ingredients
 *avacado
 *lime
-*salt 
+*salt
+*onion
+*tomato
+*chili 
 ## Instructions
